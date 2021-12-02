@@ -7,28 +7,28 @@ ITMoB launched a series of open online training seminars as an opportunity for t
 The 2nd training seminar on forest landscape modeling will be organized on early December.
 The program is designed for researchers and students who want to obtain the modeling skills for scenario analysis on forest landscape modeling.
 
-Date: TBD
+- Date: Dec. 7th 2021 (Tue)
+- Time: 15:00-17:00 in Japan time（14:00-16:00 in Philippines time, 13:00-15:00 in Western Indonesian time）
+- Venue: Zoom (the link will be sent few days before to registered emails)
+- Language: English
+- Fee: Free
+- Organizer: eAsia ITMoB project ([website](https://supportoffice.jp/eAsia2021))
+- Co-organizer: Belmont Forum ABRESO project ([website](https://www.belmontforum.org/archives/projects/abandonment-and-rebound-societal-views-on-landscape-and-land-use-change-and-their-impacts-on-water-and-soils))
 
-Time: 15:00-17:00 in Japan time（14:00-16:00 in Philippines time, 13:00-15:00 in Western Indonesian time）
-
-Venue: Zoom (the link will be sent few days before to registered emails)
-
-Language: English
-
-Fee: Free
-
-Information: https://supportoffice.jp/eAsia2021/events/
 
 # Requirements
 ## Hardware
-- OS == Windows 10 (64bit)
+- OS: Windows 10 (64bit)
+  - NG: Windows 32 bit PC or Mac
+  - OK, but difficult for biginers: Linux
 - PC memory >= 8GB
 - Storage >= 10GB
 ## Software
+- Excel >= 2010
+- ArcGIS or QGIS
 - R >= 4.0.0
   - see, https://rstudio-education.github.io/hopr/starting.html
   - download "R" and "R-studio" matching to the specification of your PC
-- Excel >= 2010
 
 
 # Agenda
