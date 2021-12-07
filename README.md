@@ -26,9 +26,6 @@ The program is designed for researchers and students who want to obtain the mode
 ## Software
 - Excel >= 2010
 - ArcGIS or QGIS
-- R >= 4.0.0
-  - see, https://rstudio-education.github.io/hopr/starting.html
-  - download "R" and "R-studio" matching to the specification of your PC
 
 # Materials
 https://www.dropbox.com/sh/kuj9mfwlgx677x2/AADu4_qENxTFsZECjWW4uiXTa?dl=0
@@ -36,20 +33,17 @@ https://www.dropbox.com/sh/kuj9mfwlgx677x2/AADu4_qENxTFsZECjWW4uiXTa?dl=0
 # Agenda
 - The 1st session (Introduction and application)
   - 15:00-15:05 (JST) Opening remarks (Dr. Saito)
-  - 15:05-15:15 (JST) Brief Introduction of LANDIS-II (Dr. Haga)
-  - 15:15-15:25 (JST) How to simulate forest landscape in Japan? (Mr. Hotta)
-    - Data
-    - Overall
-    - What types of research questions?
-  - 15:25-15:35 (JST) Q&A
+  - 15:05-15:10 (JST) Brief Introduction of LANDIS-II (Dr. Haga)
+  - 15:10-15:15 (JST) How to simulate forest landscape in Japan? (Mr. Hotta)
+  - 15:15-15:20 (JST) Q&A
 - The 2nd session (Hands-on using Japanese dataset)
-  - 15:45-15:50 (JST) Dive into LANDIS-II community
-  - 15:50-16:00 (JST) Install the LANDIS-II model
-  - 16:00-16:20 (JST) Understand key functions of LANDIS-II using EXEL
-    - Seed dispersal (exel)
+  - 15:20-15:30 (JST) Dive into LANDIS-II community
+  - 15:30-15:40 (JST) Install the LANDIS-II model
+  - 15:50-16:15 (JST) Understand key functions of LANDIS-II using EXEL
     - Biomass growth (exel)
+    - Seed dispersal (exel)
     - Disturbances (ppt)
-  - 16:20-16:40 (JST) Run LANDIS-II on your PC
+  - 16:15-16:40 (JST) Run LANDIS-II on your PC
     - Run Landscape simulation (Osaka, Japan)
     - Analyze results
   - 16:40-16:50 (JST) Q&A
