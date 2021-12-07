@@ -30,11 +30,13 @@ The program is designed for researchers and students who want to obtain the mode
   - see, https://rstudio-education.github.io/hopr/starting.html
   - download "R" and "R-studio" matching to the specification of your PC
 
+# Materials
+https://www.dropbox.com/sh/kuj9mfwlgx677x2/AADu4_qENxTFsZECjWW4uiXTa?dl=0
 
 # Agenda
 - The 1st session (Introduction and application)
-  - 15:00-15:05 (JST) Opening remarks
-  - 15:05-15:15 (JST) Brief Introduction of LANDIS-II (Mr. Haga)
+  - 15:00-15:05 (JST) Opening remarks (Dr. Saito)
+  - 15:05-15:15 (JST) Brief Introduction of LANDIS-II (Dr. Haga)
   - 15:15-15:25 (JST) How to simulate forest landscape in Japan? (Mr. Hotta)
     - Data
     - Overall
